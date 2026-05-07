@@ -1,0 +1,9 @@
+llama-index
+llama-index-vector-stores-chroma
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+llama-index-readers-web
+chromadb
+beautifulsoup4
+html2text
+sentence-transformers
